@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cc-tracker/static/css/main.ed7142fa.css",
+    "main.js": "/cc-tracker/static/js/main.d242f5dd.js",
+    "index.html": "/cc-tracker/index.html",
+    "main.ed7142fa.css.map": "/cc-tracker/static/css/main.ed7142fa.css.map",
+    "main.d242f5dd.js.map": "/cc-tracker/static/js/main.d242f5dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7142fa.css",
+    "static/js/main.d242f5dd.js"
+  ]
+}
